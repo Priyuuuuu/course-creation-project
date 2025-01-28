@@ -45,7 +45,7 @@ This project automates course creation by extracting transcripts from YouTube vi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/course-creation-project.git
+   git clone https://github.com/Priyuuuuu/course-creation-project
    ```
 
 2. **Navigate to the project directory**:
